@@ -1,4 +1,4 @@
-# Read Below
+Sring-boot app
 
 A simple project Management app - Spring boot crud with multiple domains
 
